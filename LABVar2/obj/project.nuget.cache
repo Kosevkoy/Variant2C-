@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tYtW31AkJOTk+ENoRFqwKEBQMi6Wk+rRihYBO2Upox5Hahqvh23W5CEssLITpVrzPKEd7N9Ol9eRotcz2wPqrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Владыка\\source\\repos\\LABVar2\\LABVar2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Владыка\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

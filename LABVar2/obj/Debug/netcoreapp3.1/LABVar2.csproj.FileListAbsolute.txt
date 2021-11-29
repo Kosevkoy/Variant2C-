@@ -1,0 +1,14 @@
+C:\Users\Владыка\source\repos\LABVar2\bin\Debug\netcoreapp3.1\LABVar2.exe
+C:\Users\Владыка\source\repos\LABVar2\bin\Debug\netcoreapp3.1\LABVar2.deps.json
+C:\Users\Владыка\source\repos\LABVar2\bin\Debug\netcoreapp3.1\LABVar2.runtimeconfig.json
+C:\Users\Владыка\source\repos\LABVar2\bin\Debug\netcoreapp3.1\LABVar2.runtimeconfig.dev.json
+C:\Users\Владыка\source\repos\LABVar2\bin\Debug\netcoreapp3.1\LABVar2.dll
+C:\Users\Владыка\source\repos\LABVar2\bin\Debug\netcoreapp3.1\LABVar2.pdb
+C:\Users\Владыка\source\repos\LABVar2\obj\Debug\netcoreapp3.1\LABVar2.csprojAssemblyReference.cache
+C:\Users\Владыка\source\repos\LABVar2\obj\Debug\netcoreapp3.1\LABVar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владыка\source\repos\LABVar2\obj\Debug\netcoreapp3.1\LABVar2.AssemblyInfoInputs.cache
+C:\Users\Владыка\source\repos\LABVar2\obj\Debug\netcoreapp3.1\LABVar2.AssemblyInfo.cs
+C:\Users\Владыка\source\repos\LABVar2\obj\Debug\netcoreapp3.1\LABVar2.csproj.CoreCompileInputs.cache
+C:\Users\Владыка\source\repos\LABVar2\obj\Debug\netcoreapp3.1\LABVar2.dll
+C:\Users\Владыка\source\repos\LABVar2\obj\Debug\netcoreapp3.1\LABVar2.pdb
+C:\Users\Владыка\source\repos\LABVar2\obj\Debug\netcoreapp3.1\LABVar2.genruntimeconfig.cache
