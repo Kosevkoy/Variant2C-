@@ -28,22 +28,22 @@ namespace LABVar2
         }
         public static void regularPolygonAreaCounter()
         {
-            Console.WriteLine($"sidesLong: ");
+            Console.WriteLine($"Длина стороны: ");
             Double sidesLong = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine($"sidesNumber: ");
+            Console.WriteLine($"Количество сторон: ");
             int sidesNumber = Convert.ToInt32(Console.ReadLine());
             Double regularPolygonArea = sidesNumber * Math.Pow(sidesLong, 2) / (4 * Math.Tan(Math.PI / sidesNumber));
-            Console.WriteLine($"sidesLong: {sidesLong}  sidesNumber: {sidesNumber}");
-            Console.WriteLine($"regularPolygonArea: {regularPolygonArea}");
+            Console.WriteLine($"Длина стороны: {sidesLong}  Количество сторон: {sidesNumber}");
+            Console.WriteLine($"Площадь многоугольника: {regularPolygonArea}");
         }
 
         public static void numberCounter()
         {
-            Console.WriteLine($"Number: ");
+            Console.WriteLine($"Число: ");
             int sidesLong = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Answer");
+            Console.WriteLine("Ответ");
             int answer = (sidesLong * (sidesLong + 1)) / 2;
-            Console.WriteLine($"regularPolygonArea: {answer}");
+            Console.WriteLine($"Сумма положительных чисел: {answer}");
         }
 
     }
