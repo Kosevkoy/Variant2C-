@@ -27,6 +27,8 @@ namespace LABVar2
 
         }
         public static void regularPolygonAreaCounter()
+            System.Diagnostics.Stopwatch swatch = new System.Diagnostics.Stopwatch();
+        swatch.Start();
         {
             Console.WriteLine($"Длина стороны: ");
             Double sidesLong = Convert.ToDouble(Console.ReadLine());
@@ -35,15 +37,21 @@ namespace LABVar2
             Double regularPolygonArea = sidesNumber * Math.Pow(sidesLong, 2) / (4 * Math.Tan(Math.PI / sidesNumber));
             Console.WriteLine($"Длина стороны: {sidesLong}  Количество сторон: {sidesNumber}");
             Console.WriteLine($"Площадь многоугольника: {regularPolygonArea}");
+            swatch.Stop();
+            Console.WriteLine(swatch.Elapsed);
         }
 
         public static void numberCounter()
+            System.Diagnostics.Stopwatch swatch = new System.Diagnostics.Stopwatch();
+        swatch.Start();
         {
             Console.WriteLine($"Число: ");
             int sidesLong = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Ответ");
             int answer = (sidesLong * (sidesLong + 1)) / 2;
             Console.WriteLine($"Сумма положительных чисел: {answer}");
+            swatch.Stop();
+            Console.WriteLine(swatch.Elapsed);
         }
 
     }
